@@ -62,4 +62,4 @@ Successfully enforced device compliance and secure access using Conditional Acce
 
 Contact  
 📧 kawerehacker@gmail.com  
-🔗 LinkedIn
+🔗 LinkedIn https://www.linkedin.com/in/kawere-herbert-385489275
