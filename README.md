@@ -11,34 +11,45 @@ Goals:
 - Enforce Zero Trust access  
 - Secure devices and users  
 - Standardize endpoint configuration  
-- Improve threat detection  
+- Improve threat detection
+  
+---
 
 ### 🚀 Project Phases  
-
 Phase 1: Device Enrollment  
 - Intune enrollment + Autopilot  
 - Device configuration & restrictions  
-- Compliance policies  
+- Compliance policies
+
+---
 
 Phase 2: Application Deployment  
 - Win32 + M365 apps deployment  
 - App assignment and updates  
-- Troubleshooting install failures  
+- Troubleshooting install failures
+
+---
 
 Phase 3: Conditional Access (Core)  
 - Require compliant device  
 - Enforce MFA  
-- Restrict access for non-compliant devices  
+- Restrict access for non-compliant devices
+
+---
 
 Phase 4: Endpoint Security  
 - Defender for Endpoint integration  
 - AV, Firewall, ASR policies  
-- Device risk monitoring  
+- Device risk monitoring
+
+---
 
 Phase 5: Monitoring & Troubleshooting  
 - IME log analysis  
 - Policy & sync issues  
-- Compliance troubleshooting  
+- Compliance troubleshooting
+
+---
 
 ### 🧪 Test Scenarios  
 - ❌ Non-compliant device → access blocked  
