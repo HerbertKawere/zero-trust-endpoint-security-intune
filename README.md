@@ -4,9 +4,10 @@
 Hands-on project simulating an enterprise environment implementing Microsoft Intune, Entra ID, and Defender for Endpoint to enforce Zero Trust security, device compliance, and endpoint protection.  
 Focused on implementing a real-world Zero Trust model integrating identity, endpoint management, and security controls.
 
+---
+
 ### 🧩 Scenario  
 Simulated a 200–300 user organization transitioning to cloud-based endpoint management.
-
 Goals:
 - Enforce Zero Trust access  
 - Secure devices and users  
