@@ -1,10 +1,10 @@
-🚀 Zero Trust Endpoint Security Lab (Intune)
+### 🚀 Zero Trust Endpoint Security Lab (Intune)
 
-👋 Introduction  
+### 👋 Introduction  
 Hands-on project simulating an enterprise environment implementing Microsoft Intune, Entra ID, and Defender for Endpoint to enforce Zero Trust security, device compliance, and endpoint protection.  
 Focused on implementing a real-world Zero Trust model integrating identity, endpoint management, and security controls.
 
-🧩 Scenario  
+### 🧩 Scenario  
 Simulated a 200–300 user organization transitioning to cloud-based endpoint management.
 
 Goals:
@@ -13,7 +13,7 @@ Goals:
 - Standardize endpoint configuration  
 - Improve threat detection  
 
-🚀 Project Phases  
+### 🚀 Project Phases  
 
 Phase 1: Device Enrollment  
 - Intune enrollment + Autopilot  
@@ -40,24 +40,30 @@ Phase 5: Monitoring & Troubleshooting
 - Policy & sync issues  
 - Compliance troubleshooting  
 
-🧪 Test Scenarios  
+### 🧪 Test Scenarios  
 - ❌ Non-compliant device → access blocked  
 - ✅ Compliant device → access granted  
-- 🔍 Defender alert → investigated & resolved  
+- 🔍 Defender alert → investigated & resolved
+  
+---
 
-🧠 Skills Demonstrated  
+### 🧠 Skills Demonstrated  
 - **Intune:** Device enrollment, configuration, app deployment  
 - **Identity:** Conditional Access, MFA, Zero Trust  
 - **Security:** Defender for Endpoint, ASR rules  
-- **Troubleshooting:** IME logs, policy failures  
+- **Troubleshooting:** IME logs, policy failures
+  
+---
 
-🏆 Outcomes  
+### 🏆 Outcomes  
 - Implemented Zero Trust model  
 - Enforced secure device access  
 - Improved endpoint security posture  
-- Demonstrated real-world troubleshooting  
+- Demonstrated real-world troubleshooting
+  
+---
 
-📊 Result  
+### 📊 Result  
 Successfully enforced device compliance and secure access using Conditional Access and endpoint security policies.
 
 Contact  
